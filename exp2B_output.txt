@@ -1,0 +1,64 @@
+First 5 rows:
+    OrderID  Product     Category   Price  Quantity Region
+0     1001  Headset  Accessories   474.0         9  South
+1     1002   Laptop  Electronics   998.0         2  North
+2     1003   Laptop  Electronics  1013.0         1  North
+3     1004  Monitor  Accessories   794.0         9  South
+4     1005   Laptop  Accessories    20.0         2  South
+
+Last 5 rows:
+     OrderID  Product     Category   Price  Quantity Region
+35     1036    Mouse  Accessories   488.0         3  North
+36     1037    Mouse  Electronics   167.0         8  North
+37     1038    Mouse  Accessories     NaN         3  South
+38     1039  Headset  Accessories  1118.0         7   East
+39     1040  Monitor  Electronics   248.0        10  North
+<class 'pandas.DataFrame'>
+RangeIndex: 40 entries, 0 to 39
+Data columns (total 6 columns):
+ #   Column    Non-Null Count  Dtype  
+---  ------    --------------  -----  
+ 0   OrderID   40 non-null     int64  
+ 1   Product   40 non-null     str    
+ 2   Category  40 non-null     str    
+ 3   Price     36 non-null     float64
+ 4   Quantity  40 non-null     int64  
+ 5   Region    40 non-null     str    
+dtypes: float64(1), int64(2), str(3)
+memory usage: 2.0 KB
+
+Summary statistics:
+            OrderID        Price   Quantity
+count    40.000000    36.000000  40.000000
+mean   1020.500000   644.500000   6.450000
+std      11.690452   343.339108   3.478505
+min    1001.000000    20.000000   1.000000
+25%    1010.750000   355.250000   3.000000
+50%    1020.500000   658.000000   7.000000
+75%    1030.250000   989.000000   9.250000
+max    1040.000000  1149.000000  11.000000
+
+Series + 10 (first 5):
+ 0     484.0
+1    1008.0
+2    1023.0
+3     804.0
+4      30.0
+Name: Price, dtype: float64
+
+Filtered rows (Price>200 & Quantity<8): 21
+
+Mean order value by region:
+ Region
+West     7027.916667
+East     4353.928571
+South    4061.500000
+North    2750.545455
+Name: TotalValue, dtype: float64
+
+Total sum: 169932.00
+Mean: 4248.30
+Standard Deviation: 3466.68
+
+
+[RESULT] Pandas DataFrame operations demonstrated and visualized successfully.

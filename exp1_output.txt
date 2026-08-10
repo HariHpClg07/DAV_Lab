@@ -1,0 +1,10 @@
+NumPy Version:       2.4.4
+SciPy Version:       1.17.1
+Pandas Version:      3.0.2
+Matplotlib Version:  3.10.8
+Seaborn Version:     0.13.2
+Statsmodels Version: 0.14.6
+Plotly Version:      6.9.0
+Bokeh Version:       3.9.2
+
+[RESULT] All libraries installed, imported, and verified successfully.

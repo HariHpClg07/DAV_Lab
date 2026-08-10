@@ -1,0 +1,7 @@
+Sample Mean Glucose: 119.93
+Z-Statistic: 15.9188
+P-Value: 0.000000
+Reject the null hypothesis: mean Glucose is significantly different from 100.
+
+
+[RESULT] Z-test completed and visualized - Reject the null hypothesis: mean Glucose is significantly different from 100.

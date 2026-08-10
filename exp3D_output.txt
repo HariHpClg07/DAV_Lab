@@ -1,0 +1,8 @@
+Glucose Mean:      UCI=119.93, Pima=120.89
+Glucose Std Dev:   UCI=34.69, Pima=31.97
+Glucose Skewness:  UCI=0.0444, Pima=0.1734
+Linear R2 (Glucose->BMI): UCI=0.0613, Pima=0.0489
+Logistic Accuracy (Outcome): UCI=0.7078, Pima=0.7403
+
+
+[RESULT] Comparison of statistical and model results between datasets completed and visualized.

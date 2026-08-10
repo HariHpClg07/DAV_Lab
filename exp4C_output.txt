@@ -1,0 +1,7 @@
+T-test Results:
+               T-statistic   P-value
+Glucose          -0.567512  0.570450
+BloodPressure     1.028193  0.304021
+BMI              -0.252370  0.800789
+
+[RESULT] T-test completed and visualized for Glucose, BloodPressure, and BMI.

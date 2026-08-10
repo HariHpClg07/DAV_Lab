@@ -1,0 +1,5 @@
+UCI Diabetes - Accuracy: 0.7078, Precision: 0.6452, Recall: 0.3704, F1: 0.4706
+Pima Diabetes - Accuracy: 0.7403, Precision: 0.6364, Recall: 0.6364, F1: 0.6364
+
+
+[RESULT] Logistic regression models built and validated with accuracy, precision, recall, F1, and ROC/AUC.

@@ -1,0 +1,9 @@
+
+UCI Diabetes Dataset - Multiple Regression R2 Score: 0.0562
+UCI Diabetes Dataset - Coefficients: {'Glucose': np.float64(0.0567), 'BloodPressure': np.float64(0.1205), 'Age': np.float64(-0.0583)}
+
+Pima Indians Diabetes Dataset - Multiple Regression R2 Score: 0.1677
+Pima Indians Diabetes Dataset - Coefficients: {'Glucose': np.float64(0.0472), 'BloodPressure': np.float64(0.1023), 'Age': np.float64(-0.0721)}
+
+
+[RESULT] Multiple regression analysis completed and visualized for both datasets.

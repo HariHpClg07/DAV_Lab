@@ -1,0 +1,9 @@
+   Glucose
+0      148
+1       85
+2      183
+3       89
+4      137
+
+
+[RESULT] Time series analysis and ARIMA forecasting completed and visualized.

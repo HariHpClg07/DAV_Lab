@@ -1,0 +1,1 @@
+[RESULT] Normal curves plotted for Glucose, BMI, BloodPressure, and Age.

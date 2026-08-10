@@ -1,0 +1,5 @@
+UCI Diabetes - R2: 0.0894, MSE: 124.8662, MAE: 8.8228
+Pima Diabetes - R2: 0.0749, MSE: 147.8913, MAE: 9.5818
+
+
+[RESULT] Linear regression models built and validated with R2, MSE, MAE and visual diagnostics.

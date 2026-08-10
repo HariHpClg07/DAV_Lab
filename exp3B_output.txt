@@ -1,0 +1,15 @@
+
+Linear Regression (Predicting BMI using Glucose) - UCI Diabetes:
+R2 Score: 0.0613
+
+Linear Regression (Predicting BMI using Glucose) - Pima Diabetes:
+R2 Score: 0.0489
+
+Logistic Regression (Predicting Outcome using ['Glucose', 'BloodPressure', 'BMI', 'Age']) - UCI Diabetes:
+Accuracy Score: 0.7078
+
+Logistic Regression (Predicting Outcome using ['Glucose', 'BloodPressure', 'BMI', 'Age']) - Pima Diabetes:
+Accuracy Score: 0.7403
+
+
+[RESULT] Bivariate linear and logistic regression modeling completed and visualized.
